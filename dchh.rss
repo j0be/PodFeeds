@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+
+        <atom:link href="https://feeds.feedburner.com/dancarlin/history?format=xml" rel="self" type="application/rss+xml" />
+
+        <title>Dan Carlin's Hardcore History</title>
+        <description>In "Hardcore History" journalist and broadcaster Dan Carlin takes his "Martian", unorthodox way of thinking and applies it to the past. Was Alexander the Great as bad a person as Adolf Hitler? What would Apaches with modern weapons be like? Will our modern civilization ever fall like civilizations from past eras? This isn't academic history (and Carlin isn't a historian) but the podcast's unique blend of high drama, masterful narration and Twilight Zone-style twists has entertained millions of listeners.</description>
+        <itunes:summary>In "Hardcore History" journalist and broadcaster Dan Carlin takes his "Martian", unorthodox way of thinking and applies it to the past. Was Alexander the Great as bad a person as Adolf Hitler? What would Apaches with modern weapons be like? Will our modern civilization ever fall like civilizations from past eras? This isn't academic history (and Carlin isn't a historian) but the podcast's unique blend of high drama, masterful narration and Twilight Zone-style twists has entertained millions of listeners.</itunes:summary>
+        <itunes:subtitle>This isn't academic history (and Carlin isn't a historian) but the podcast's unique blend of high drama, masterful narration and Twilight Zone-style twists has entertained millions of listeners.</itunes:subtitle>
+        <link>http://www.dancarlin.com</link>
+
+        <pubDate>Thu, 24 Oct 2019 16:10:53 PST</pubDate>
+
+        <language>en-us</language>
+
+        <managingEditor>dan@dancarlin.com (Dan Carlin)</managingEditor>
+        <webMaster>dan@dancarlin.com (Dan Carlin)</webMaster>
+
+        <itunes:author>Dan Carlin</itunes:author>
+        <copyright>dancarlin.com</copyright>
+        <itunes:image href="http://www.dancarlin.com/graphics/DC_HH_iTunes.jpg"></itunes:image>
+        <image>
+            <url>http://www.dancarlin.com/graphics/DC_HH_iTunes.jpg</url>
+            <link>http://www.dancarlin.com</link>
+            <title>Dan Carlin's Hardcore History</title>
+        </image>
+        <itunes:owner>
+            <itunes:name>Dan Carlin's Hardcore History</itunes:name>
+            <itunes:email>dan@dancarlin.com </itunes:email>
+        </itunes:owner>
+        <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+        <itunes:category text="History" />
+        <itunes:explicit>no</itunes:explicit>
+
+        <item>
+            <title>Show 18 - A Fly on James Burke's Wall</title>
+            <itunes:title>A Fly on James Burke's Wall</itunes:title>
+            <itunes:episode>18</itunes:episode>
+            <guid>https://drive.google.com/u/0/uc?id=1uuX2qB7D5E4IePp_KQl2YtS47BnxSur-</guid>
+            <description>n this episode, Dan discusses history with famed television host, author and science historian James Burke, the man the Washington Post called “one of the most intriguing minds in the Western world”.</description>
+            <itunes:subtitle>n this episode, Dan discusses history with famed television host, author and science historian James Burke, the man the Washington Post called “one of the most intriguing minds in the Western world”.</itunes:subtitle>
+            <itunes:summary>n this episode, Dan discusses history with famed television host, author and science historian James Burke, the man the Washington Post called “one of the most intriguing minds in the Western world”.</itunes:summary>
+            <link>https://www.dancarlin.com/product/hardcore-history-18-a-fly-on-james-burkes-wall/</link>
+            <pubDate>Wed, 02 Jan 2008 00:00:00</pubDate>
+            <enclosure url="https://drive.google.com/u/0/uc?id=1uuX2qB7D5E4IePp_KQl2YtS47BnxSur-" length="" type="audio/mpeg" />
+            <itunes:duration>00:39:33</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+
+        <item>
+            <title>Show 24 – Classical Hanson</title>
+            <itunes:title>Classical Hanson</itunes:title>
+            <itunes:episode>24</itunes:episode>
+            <guid>https://drive.google.com/u/0/uc?id=1QiQbdG6ZY3XwTQJdXtuAAZrDNBaHQnBF</guid>
+            <description>Dan discusses history with famed historian, political commentator and classicist Victor Davis Hanson.</description>
+            <itunes:subtitle>Dan discusses history with famed historian, political commentator and classicist Victor Davis Hanson.</itunes:subtitle>
+            <itunes:summary>Dan discusses history with famed historian, political commentator and classicist Victor Davis Hanson.</itunes:summary>
+            <link>https://www.dancarlin.com/product/hardcore-history-24-classical-hanson/</link>
+            <pubDate>Fri, 21 Nov 2008 00:00:00</pubDate>
+            <enclosure url="https://drive.google.com/u/0/uc?id=1QiQbdG6ZY3XwTQJdXtuAAZrDNBaHQnBF" length="" type="audio/mpeg" />
+            <itunes:duration>00:35:37</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+
+        <item>
+            <title>Show 25 – The Dyer Outlook</title>
+            <itunes:title>The Dyer Outlook</itunes:title>
+            <itunes:episode>25</itunes:episode>
+            <guid>https://drive.google.com/u/0/uc?id=1jWjA-SswtRhUP77pMpAy1q9_ufmafmMC</guid>
+            <description>Dan discusses the past, present and future with influential Canadian historian, broadcaster and columnist Gwynne Dyer.</description>
+            <itunes:subtitle>Dan discusses the past, present and future with influential Canadian historian, broadcaster and columnist Gwynne Dyer.</itunes:subtitle>
+            <itunes:summary>Dan discusses the past, present and future with influential Canadian historian, broadcaster and columnist Gwynne Dyer.</itunes:summary>
+            <link>https://www.dancarlin.com/product/hardcore-history-25-the-dyer-outlook/</link>
+            <pubDate>Tue, 20 Jan 2009</pubDate>
+            <enclosure url="https://drive.google.com/u/0/uc?id=1jWjA-SswtRhUP77pMpAy1q9_ufmafmMC" length="" type="audio/mpeg" />
+            <itunes:duration>00:59:24</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+        </item>
+
+    </channel>
+
+</rss>
