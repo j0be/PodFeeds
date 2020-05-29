@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <atom:link href="https://feeds.feedburner.com/dancarlin/history?format=xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://raw.githubusercontent.com/j0be/PodFeeds/master/dchh.rss" rel="self" type="application/rss+xml" />
 
         <title>Dan Carlin's Hardcore History</title>
         <description>In "Hardcore History" journalist and broadcaster Dan Carlin takes his "Martian", unorthodox way of thinking and applies it to the past. Was Alexander the Great as bad a person as Adolf Hitler? What would Apaches with modern weapons be like? Will our modern civilization ever fall like civilizations from past eras? This isn't academic history (and Carlin isn't a historian) but the podcast's unique blend of high drama, masterful narration and Twilight Zone-style twists has entertained millions of listeners.</description>
