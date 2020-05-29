@@ -25,7 +25,7 @@
         <itunes:explicit>no</itunes:explicit>
 
         <item>
-            <enclosure url="" type="audio/mpeg"/>
+            <enclosure url="https://drive.google.com/uc?id=140jLZUwXpyYW_49Om2oEf6jTkst76HWj" type="audio/mpeg"/>
             <title>Show 49 – The American Peril</title>
             <itunes:title>The American Peril</itunes:title>
             <itunes:episode>49</itunes:episode>
@@ -40,7 +40,7 @@
         </item>
 
         <item>
-            <enclosure url="" type="audio/mpeg"/>
+            <enclosure url="https://drive.google.com/u/0/uc?id=1KKxpPJcoq93GPnrWhDvMJcwDAH1LQlbt" type="audio/mpeg"/>
             <title>Show 48 – Prophets of Doom</title>
             <itunes:title>Prophets of Doom</itunes:title>
             <itunes:episode>48</itunes:episode>
@@ -55,7 +55,7 @@
         </item>
 
         <item>
-            <enclosure url="" type="audio/mpeg"/>
+            <enclosure url="https://drive.google.com/u/0/uc?id=1hjfe008cfdfUx75bIxlIC-PNxG6dRFPX" type="audio/mpeg"/>
             <title>Show 47 – Wrath of the Khans V</title>
             <itunes:title>Wrath of the Khans V</itunes:title>
             <itunes:episode>47</itunes:episode>
@@ -70,7 +70,7 @@
         </item>
 
         <item>
-            <enclosure url="" type="audio/mpeg"/>
+            <enclosure url="https://drive.google.com/u/0/uc?id=1teMJUclUNcTaqGsbl6KUaNm191XBX79i" type="audio/mpeg"/>
             <title>Show 46 – Wrath of the Khans IV</title>
             <itunes:title>Wrath of the Khans IV</itunes:title>
             <itunes:episode>46</itunes:episode>
@@ -85,7 +85,7 @@
         </item>
 
         <item>
-            <enclosure url="" type="audio/mpeg"/>
+            <enclosure url="https://drive.google.com/u/0/uc?id=1qDDUw_Uxmwq8ohUKP7BhLYSIWV_33KEi" type="audio/mpeg"/>
             <title>Show 45 – Wrath of the Khans III</title>
             <itunes:title>Wrath of the Khans III</itunes:title>
             <itunes:episode>45</itunes:episode>
@@ -100,7 +100,7 @@
         </item>
 
         <item>
-            <enclosure url="" type="audio/mpeg"/>
+            <enclosure url="https://drive.google.com/u/0/uc?id=17kj9_CmnaSSg5Pezdg5ntHuSDNJjHhgk" type="audio/mpeg"/>
             <title>Show 44 – Wrath of the Khans II</title>
             <itunes:title>Wrath of the Khans II</itunes:title>
             <itunes:episode>44</itunes:episode>
@@ -115,7 +115,7 @@
         </item>
 
         <item>
-            <enclosure url="" type="audio/mpeg"/>
+            <enclosure url="https://drive.google.com/u/0/uc?id=1TA2sOJpYdMzXs1dGxI8bt1ttvDoWE4F6" type="audio/mpeg"/>
             <title>Show 43 – Wrath of the Khans I</title>
             <itunes:title>Wrath of the Khans I</itunes:title>
             <itunes:episode>43</itunes:episode>
@@ -130,9 +130,9 @@
         </item>
 
         <item>
-            <enclosure url="" type="audio/mpeg"/>
-            <title>Show 42 – (BLITZ) Logical Insanity</title>
-            <itunes:title>(BLITZ) Logical Insanity</itunes:title>
+            <enclosure url="https://drive.google.com/u/0/uc?id=1FRIp-l0SVjkC0qMIfG_wANFpsMN7j6vo" type="audio/mpeg"/>
+            <title>Show 42 – (BLITZ) Logical Insanity II</title>
+            <itunes:title>(BLITZ) Logical Insanity II</itunes:title>
             <itunes:episode>42</itunes:episode>
             <itunes:duration>02:28:49</duration>
             <itunes:image href="https://www.dancarlin.com/wp-content/uploads/2012/04/hardcore-history-42-logical-insanity-by-dan-carlin-239x239.jpg" />
@@ -145,7 +145,22 @@
         </item>
 
         <item>
-            <enclosure url="" type="audio/mpeg"/>
+            <enclosure url="https://drive.google.com/u/0/uc?id=1qT9O8iZ4vROT0P2rt7cTzt1dJ4Cvm1cO" type="audio/mpeg"/>
+            <title>Show 42 – (BLITZ) Logical Insanity I</title>
+            <itunes:title>(BLITZ) Logical Insanity I</itunes:title>
+            <itunes:episode>42</itunes:episode>
+            <itunes:duration>02:28:49</duration>
+            <itunes:image href="https://www.dancarlin.com/wp-content/uploads/2012/04/hardcore-history-42-logical-insanity-by-dan-carlin-239x239.jpg" />
+            <itunes:description>After many listener requests, Dan examines the issue of the morality of dropping the Atomic Bombs in the Second World War. As usual, he does so in his own unique, unexpected way.<itunes:description>
+            <summary>After many listener requests, Dan examines the issue of the morality of dropping the Atomic Bombs in the Second World War. As usual, he does so in his own unique, unexpected way.</summary>
+            <description>After many listener requests, Dan examines the issue of the morality of dropping the Atomic Bombs in the Second World War. As usual, he does so in his own unique, unexpected way.</description>
+            <link>https://www.dancarlin.com/product/hardcore-history-42-blitz-logical-insanity/</link>
+            <guid>https://www.dancarlin.com/product/hardcore-history-42-blitz-logical-insanity/</link>
+            <pubDate>Sat, 31 Mar 2012 12:00:00</pubDate>
+        </item>
+
+        <item>
+            <enclosure url="https://drive.google.com/uc?id=1W1eqXAGwo8ebkw87FDBDbUesgFxsxAkv" type="audio/mpeg"/>
             <title>Show 41 – Thor’s Angels</title>
             <itunes:title>Thor’s Angels</itunes:title>
             <itunes:episode>41</itunes:episode>
@@ -160,7 +175,7 @@
         </item>
 
         <item>
-            <enclosure url="" type="audio/mpeg"/>
+            <enclosure url="https://drive.google.com/uc?id=1a_3LdduD6Yui8IGzzS1N1tc_d7cPdjFq" type="audio/mpeg"/>
             <title>Show 40 – (BLITZ) Radical Thoughts</title>
             <itunes:title>(BLITZ) Radical Thoughts</itunes:title>
             <itunes:episode>40</itunes:episode>
@@ -175,7 +190,7 @@
         </item>
 
         <item>
-            <enclosure url="" type="audio/mpeg"/>
+            <enclosure url="https://drive.google.com/uc?id=1-QT2O7jP72cwlCLzb1AtmE2zvQrCVpuD" type="audio/mpeg"/>
             <title>Show 39 – Death Throes of the Republic VI</title>
             <itunes:title>Death Throes of the Republic VI</itunes:title>
             <itunes:episode>39</itunes:episode>
@@ -190,7 +205,7 @@
         </item>
 
         <item>
-            <enclosure url="" type="audio/mpeg"/>
+            <enclosure url="https://drive.google.com/u/0/uc?id=1AZeIelWB7xil2VEmsasRMZTo7-VkJyPY" type="audio/mpeg"/>
             <title>Show 38 – Death Throes of the Republic V</title>
             <itunes:title>Death Throes of the Republic V</itunes:title>
             <itunes:episode>38</itunes:episode>
@@ -205,7 +220,7 @@
         </item>
 
         <item>
-            <enclosure url="" type="audio/mpeg"/>
+            <enclosure url="https://drive.google.com/u/0/uc?id=1Xu47hGXz_foYnlF_IsN5KQ_GaLRuhdJi" type="audio/mpeg"/>
             <title>Show 37 – Death Throes of the Republic IV</title>
             <itunes:title>Death Throes of the Republic IV</itunes:title>
             <itunes:episode>37</itunes:episode>
@@ -220,7 +235,7 @@
         </item>
 
         <item>
-            <enclosure url="" type="audio/mpeg"/>
+            <enclosure url="https://drive.google.com/u/0/uc?id=190kMo1eav_9EFyNMoKeoTZlUFS03JxaB" type="audio/mpeg"/>
             <title>Show 36 – Death Throes of the Republic III</title>
             <itunes:title>Death Throes of the Republic III</itunes:title>
             <itunes:episode>36</itunes:episode>
@@ -235,7 +250,7 @@
         </item>
 
         <item>
-            <enclosure url="" type="audio/mpeg"/>
+            <enclosure url="https://drive.google.com/u/0/uc?id=1dWiZyJisUs0Kh8omrXV61XujXVXW7oTA" type="audio/mpeg"/>
             <title>Show 35 – Death Throes of the Republic II</title>
             <itunes:title>Death Throes of the Republic II</itunes:title>
             <itunes:episode>35</itunes:episode>
@@ -250,7 +265,7 @@
         </item>
 
         <item>
-            <enclosure url="" type="audio/mpeg"/>
+            <enclosure url="https://drive.google.com/u/0/uc?id=1XjQ5flGxnmpd0iGe4J_RAZ2MttGHq6DU" type="audio/mpeg"/>
             <title>Show 34 – Death Throes of the Republic I</title>
             <itunes:title>Death Throes of the Republic I</itunes:title>
             <itunes:episode>34</itunes:episode>
@@ -265,9 +280,9 @@
         </item>
 
         <item>
-            <enclosure url="" type="audio/mpeg"/>
-            <title>Show 33 – (BLITZ) Old School Toughness</title>
-            <itunes:title>(BLITZ) Old School Toughness</itunes:title>
+            <enclosure url="https://drive.google.com/u/0/uc?id=1r_feiaoxIb3L9WFKEAG23KPWQN312b5E" type="audio/mpeg"/>
+            <title>Show 33 – (BLITZ) Old School Toughness II</title>
+            <itunes:title>(BLITZ) Old School Toughness II</itunes:title>
             <itunes:episode>33</itunes:episode>
             <itunes:duration>1:01:50</duration>
             <itunes:image href="https://www.dancarlin.com/wp-content/uploads/2010/04/hardcore-history-33-old-school-toughness-239x239.jpg" />
@@ -280,7 +295,22 @@
         </item>
 
         <item>
-            <enclosure url="" type="audio/mpeg"/>
+            <enclosure url="https://drive.google.com/u/0/uc?id=1xRqSwjxE0Yz-hgPhaOyjtnz5mvY5smCK" type="audio/mpeg"/>
+            <title>Show 33 – (BLITZ) Old School Toughness I</title>
+            <itunes:title>(BLITZ) Old School Toughness I</itunes:title>
+            <itunes:episode>33</itunes:episode>
+            <itunes:duration>1:01:50</duration>
+            <itunes:image href="https://www.dancarlin.com/wp-content/uploads/2010/04/hardcore-history-33-old-school-toughness-239x239.jpg" />
+            <itunes:description>Does the toughness of peoples play any role in history? How can historians deal with such an amorphous human quality? Historiography, boxing, barbarians, philosophy and wisdom are among the subjects touched upon<itunes:description>
+            <summary>Does the toughness of peoples play any role in history? How can historians deal with such an amorphous human quality? Historiography, boxing, barbarians, philosophy and wisdom are among the subjects touched upon</summary>
+            <description>Does the toughness of peoples play any role in history? How can historians deal with such an amorphous human quality? Historiography, boxing, barbarians, philosophy and wisdom are among the subjects touched upon</description>
+            <link>https://www.dancarlin.com/product/hardcore-history-33-blitz-old-school-toughness/</link>
+            <guid>https://www.dancarlin.com/product/hardcore-history-33-blitz-old-school-toughness/</link>
+            <pubDate>Wed, 28 Apr 2010 12:00:00</pubDate>
+        </item>
+
+        <item>
+            <enclosure url="https://drive.google.com/u/0/uc?id=1AE7eXdHS5z9MMqYv_sGcFK3h1d6FOIe9" type="audio/mpeg"/>
             <title>Show 32 – Globalization Unto Death</title>
             <itunes:title>Globalization Unto Death</itunes:title>
             <itunes:episode>Dan</itunes:episode>
@@ -295,7 +325,7 @@
         </item>
 
         <item>
-            <enclosure url="" type="audio/mpeg"/>
+            <enclosure url="https://drive.google.com/u/0/uc?id=1iQBS3p9KTcs3FYg7LZIG-rLqmtQNRoza" type="audio/mpeg"/>
             <title>Show 31 – (BLITZ) Suffer the Children</title>
             <itunes:title>(BLITZ) Suffer the Children</itunes:title>
             <itunes:episode>31</itunes:episode>
@@ -310,7 +340,7 @@
         </item>
 
         <item>
-            <enclosure url="" type="audio/mpeg"/>
+            <enclosure url="https://drive.google.com/u/0/uc?id=1omBU--OfK0snLnlvPW7E5HLfK4qQ08rG" type="audio/mpeg"/>
             <title>Show 30 – Ghosts of the Ostfront IV</title>
             <itunes:title>Ghosts of the Ostfront IV</itunes:title>
             <itunes:episode>5</itunes:episode>
@@ -325,7 +355,7 @@
         </item>
 
         <item>
-            <enclosure url="" type="audio/mpeg"/>
+            <enclosure url="https://drive.google.com/u/0/uc?id=1mZoJ63j96-WxmaKxblkO3PtDJmsZTsYD" type="audio/mpeg"/>
             <title>Show 29 – Ghosts of the Ostfront III</title>
             <itunes:title>Ghosts of the Ostfront III</itunes:title>
             <itunes:episode>5</itunes:episode>
@@ -340,7 +370,7 @@
         </item>
 
         <item>
-            <enclosure url="" type="audio/mpeg"/>
+            <enclosure url="https://drive.google.com/u/0/uc?id=1sIJLdkVyIOzulA9QadeX6GulSnI-eY5n" type="audio/mpeg"/>
             <title>Show 28 – Ghosts of the Ostfront II</title>
             <itunes:title>Ghosts of the Ostfront II</itunes:title>
             <itunes:episode>5</itunes:episode>
@@ -355,7 +385,7 @@
         </item>
 
         <item>
-            <enclosure url="" type="audio/mpeg"/>
+            <enclosure url="https://drive.google.com/u/0/uc?id=1MUQ6fHzMq2-EuEuEU_HUovk4caGSPhLz" type="audio/mpeg"/>
             <title>Show 27 – Ghosts of the Ostfront I</title>
             <itunes:title>Ghosts of the Ostfront I</itunes:title>
             <itunes:episode>5</itunes:episode>
@@ -370,7 +400,7 @@
         </item>
 
         <item>
-            <enclosure url="" type="audio/mpeg"/>
+            <enclosure url="https://drive.google.com/u/0/uc?id=1FZ4k1y4A4tBUP54eLDEPi1ewYvRcLr6_" type="audio/mpeg"/>
             <title>Show 26 – (BLITZ) Addicted to Bondage</title>
             <itunes:title>(BLITZ) Addicted to Bondage</itunes:title>
             <itunes:episode>Dan</itunes:episode>
@@ -415,7 +445,7 @@
         </item>
 
         <item>
-            <enclosure url="" type="audio/mpeg"/>
+            <enclosure url="https://drive.google.com/u/0/uc?id=1M02oz255ptG76ns0PB_oKJYpWoasJqV0" type="audio/mpeg"/>
             <title>Show 23 – Punic Nightmares III</title>
             <itunes:title>Punic Nightmares III</itunes:title>
             <itunes:episode>Audio</itunes:episode>
@@ -430,7 +460,7 @@
         </item>
 
         <item>
-            <enclosure url="" type="audio/mpeg"/>
+            <enclosure url="https://drive.google.com/u/0/uc?id=11mQT77xUMHIxhVSisrIfnWzeDlfAAPZn" type="audio/mpeg"/>
             <title>Show 22 – Punic Nightmares II</title>
             <itunes:title>Punic Nightmares II</itunes:title>
             <itunes:episode>Audio</itunes:episode>
@@ -759,7 +789,5 @@
             <pubDate>Thu, 27 Jul 2006 12:00:00</pubDate>
         </item>
 
-
     </channel>
-
 </rss>
